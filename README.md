@@ -1,8 +1,8 @@
 When Chuck Norris eats dinner at a restaurant, the wait staff tips him.
 -----------------------------------------------------------------------
 
-In honor of a tweet from Roger Ehrenberg ([@infoarbitrage]([.markdown](http://daringfireball.net/projects/markdown/)) http://twitter.com/#!/infoarbitrage/status/42611272902115328
-and my Chuck Norris Fact-crazy 11-year-old, here are the facts from http://www.chucknorrisfacts.com
+In honor of a [tweet](http://twitter.com/#!/infoarbitrage/status/42611272902115328) from Roger Ehrenberg ([@infoarbitrage]([.markdown](http://daringfireball.net/projects/markdown/)) 
+and my Chuck Norris Fact-crazy 11-year-old, here are the facts freshly scraped from [http://www.chucknorrisfacts.com](http://twitter.com/#!/infoarbitrage/status/42611272902115328)
 
 Please be a good citizen and use the attached data file rather than run the code yourself. The code is here for illustrative purposes.
 
