@@ -1,17 +1,7 @@
-GitHub Markup
-=============
-
-We use this library on GitHub when rendering your README or any other
-rich text file.
-
-Markups
--------
-chuck_norris_facts.py
-
 When Chuck Norris eats dinner at a restaurant, the wait staff tips him.
 -----------------------------------------------------------------------
 
-In honor of a tweet from Roger Ehrenberg(@infoarbitrage) http://twitter.com/#!/infoarbitrage/status/42611272902115328
+In honor of a tweet from Roger Ehrenberg ([@infoarbitrage]([.markdown](http://daringfireball.net/projects/markdown/)) http://twitter.com/#!/infoarbitrage/status/42611272902115328
 and my Chuck Norris Fact-crazy 11-year-old, here are the facts from http://www.chucknorrisfacts.com
 
 Please be a good citizen and use the attached data file rather than run the code yourself. The code is here for illustrative purposes.
